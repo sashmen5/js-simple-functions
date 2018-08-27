@@ -1,0 +1,10 @@
+.TreeTable {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid grey;
+}
+
+.pressed {
+    background-color: yellow;
+}
